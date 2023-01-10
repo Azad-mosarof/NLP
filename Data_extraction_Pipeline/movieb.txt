@@ -1,0 +1,198 @@
+Movie name: The Shawshank Redemption
+Description: 
+Genre: 
+Cast: Frank Darabont (dir.), Tim Robbins, Morgan Freeman
+Director: 
+Year: 1994
+Rating: 9.2
+Rating Out Of: 2,667,821
+
+Movie name: The Godfather
+Description: 
+Genre: 
+Cast: Francis Ford Coppola (dir.), Marlon Brando, Al Pacino
+Director: 
+Year: 1972
+Rating: 9.2
+Rating Out Of: 1,848,805
+
+Movie name: The Dark Knight
+Description: 
+Genre: 
+Cast: Christopher Nolan (dir.), Christian Bale, Heath Ledger
+Director: 
+Year: 2008
+Rating: 9.0
+Rating Out Of: 2,640,714
+
+Movie name: The Godfather Part II
+Description: 
+Genre: 
+Cast: Francis Ford Coppola (dir.), Al Pacino, Robert De Niro
+Director: 
+Year: 1974
+Rating: 9.0
+Rating Out Of: 1,266,102
+
+Movie name: 12 Angry Men
+Description: 
+Genre: 
+Cast: Sidney Lumet (dir.), Henry Fonda, Lee J. Cobb
+Director: 
+Year: 1957
+Rating: 9.0
+Rating Out Of: 787,893
+
+Movie name: Schindler's List
+Description: 
+Genre: 
+Cast: Steven Spielberg (dir.), Liam Neeson, Ralph Fiennes
+Director: 
+Year: 1993
+Rating: 8.9
+Rating Out Of: 1,350,748
+
+Movie name: The Lord of the Rings: The Return of the King
+Description: 
+Genre: 
+Cast: Peter Jackson (dir.), Elijah Wood, Viggo Mortensen
+Director: 
+Year: 2003
+Rating: 8.9
+Rating Out Of: 1,838,969
+
+Movie name: Pulp Fiction
+Description: 
+Genre: 
+Cast: Quentin Tarantino (dir.), John Travolta, Uma Thurman
+Director: 
+Year: 1994
+Rating: 8.8
+Rating Out Of: 2,042,476
+
+Movie name: The Lord of the Rings: The Fellowship of the Ring
+Description: 
+Genre: 
+Cast: Peter Jackson (dir.), Elijah Wood, Ian McKellen
+Director: 
+Year: 2001
+Rating: 8.8
+Rating Out Of: 1,868,189
+
+Movie name: Il buono, il brutto, il cattivo
+Description: 
+Genre: 
+Cast: Sergio Leone (dir.), Clint Eastwood, Eli Wallach
+Director: 
+Year: 1966
+Rating: 8.8
+Rating Out Of: 760,187
+
+Movie name: Forrest Gump
+Description: 
+Genre: 
+Cast: Robert Zemeckis (dir.), Tom Hanks, Robin Wright
+Director: 
+Year: 1994
+Rating: 8.8
+Rating Out Of: 2,068,158
+
+Movie name: Fight Club
+Description: 
+Genre: 
+Cast: David Fincher (dir.), Brad Pitt, Edward Norton
+Director: 
+Year: 1999
+Rating: 8.7
+Rating Out Of: 2,113,328
+
+Movie name: The Lord of the Rings: The Two Towers
+Description: 
+Genre: 
+Cast: Peter Jackson (dir.), Elijah Wood, Ian McKellen
+Director: 
+Year: 2002
+Rating: 8.7
+Rating Out Of: 1,660,574
+
+Movie name: Inception
+Description: 
+                Dom Cobb (Leonardo DiCaprio) is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious. His skill has made him a hot commodity in the world of corporate espionage but has also cost him everything he loves. Cobb gets a chance at redemption when he is offered a seemingly impossible task: Plant an idea in someone's mind. If he succeeds, it will be the perfect crime, but a dangerous enemy anticipates Cobb's every move.
+            
+Genre: 
+                        
+                        Sci-fi, 
+                        
+                        Mystery & thriller, 
+                        
+                        Action
+                        
+                    
+Cast: Christopher Nolan (dir.), Leonardo DiCaprio, Joseph Gordon-Levitt
+Director: Christopher Nolan
+Year: 2010
+Rating: 8.7
+Rating Out Of: 2,340,381
+
+Movie name: The Empire Strikes Back
+Description: 
+Genre: 
+Cast: Irvin Kershner (dir.), Mark Hamill, Harrison Ford
+Director: 
+Year: 1980
+Rating: 8.7
+Rating Out Of: 1,288,225
+
+Movie name: The Matrix
+Description: 
+Genre: 
+Cast: Lana Wachowski (dir.), Keanu Reeves, Laurence Fishburne
+Director: 
+Year: 1999
+Rating: 8.7
+Rating Out Of: 1,905,986
+
+Movie name: Goodfellas
+Description: 
+                A young man grows up in the mob and works very hard to advance himself through the ranks. He enjoys his life of money and luxury, but is oblivious to the horror that he causes. A drug addiction and a few mistakes ultimately unravel his climb to the top. Based on the book "Wiseguy" by Nicholas Pileggi.
+            
+Genre: 
+                        
+                        Crime, 
+                        
+                        Drama
+                        
+                    
+Cast: Martin Scorsese (dir.), Robert De Niro, Ray Liotta
+Director: Martin Scorsese
+Year: 1990
+Rating: 8.7
+Rating Out Of: 1,156,484
+
+Movie name: One Flew Over the Cuckoo's Nest
+Description: 
+Genre: 
+Cast: Milos Forman (dir.), Jack Nicholson, Louise Fletcher
+Director: 
+Year: 1975
+Rating: 8.6
+Rating Out Of: 1,005,760
+
+Movie name: Se7en
+Description: 
+Genre: 
+Cast: David Fincher (dir.), Morgan Freeman, Brad Pitt
+Director: 
+Year: 1995
+Rating: 8.6
+Rating Out Of: 1,644,675
+
+Movie name: Shichinin no samurai
+Description: 
+Genre: 
+Cast: Akira Kurosawa (dir.), Toshirô Mifune, Takashi Shimura
+Director: 
+Year: 1954
+Rating: 8.6
+Rating Out Of: 346,049
+

@@ -1,0 +1,11 @@
+,movie_name,cast,description,genre,director,year,rating,rating_out_of,rank
+0,The Shawshank Redemption,"Frank Darabont (dir.), Tim Robbins, Morgan Freeman",,,,1994,9.2,"2,667,971",1
+1,The Godfather,"Francis Ford Coppola (dir.), Marlon Brando, Al Pacino",,,,1972,9.2,"1,848,906",2
+2,The Dark Knight,"Christopher Nolan (dir.), Christian Bale, Heath Ledger",,,,2008,9.0,"2,640,856",3
+3,The Godfather Part II,"Francis Ford Coppola (dir.), Al Pacino, Robert De Niro",,,,1974,9.0,"1,266,161",4
+4,12 Angry Men,"Sidney Lumet (dir.), Henry Fonda, Lee J. Cobb",,,,1957,9.0,"787,941",5
+5,Schindler's List,"Steven Spielberg (dir.), Liam Neeson, Ralph Fiennes",,,,1993,8.9,"1,350,826",6
+6,The Lord of the Rings: The Return of the King,"Peter Jackson (dir.), Elijah Wood, Viggo Mortensen",,,,2003,8.9,"1,839,061",7
+7,Pulp Fiction,"Quentin Tarantino (dir.), John Travolta, Uma Thurman",,,,1994,8.8,"2,042,624",8
+8,The Lord of the Rings: The Fellowship of the Ring,"Peter Jackson (dir.), Elijah Wood, Ian McKellen",,,,2001,8.8,"1,868,280",9
+9,"Il buono, il brutto, il cattivo","Sergio Leone (dir.), Clint Eastwood, Eli Wallach",,,,1966,8.8,"760,210",10
